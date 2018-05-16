@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\utilizador\desktop\vigenere\vigenere\main.c(22): warning C4715: 'intToString': not all control paths return a value
+  Vigenere.vcxproj -> C:\Users\Utilizador\Desktop\Vigenere\Debug\Vigenere.exe
